@@ -1,0 +1,3 @@
+[submodule "potato_disease_detection"]
+	path = potato_disease_detection
+	url = https://github.com/Vijay410/potato_disease_detection
